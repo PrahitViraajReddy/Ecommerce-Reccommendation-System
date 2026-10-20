@@ -1,9 +1,0 @@
-.env
-*.py[cod]
-__pycache__/
-db.sqlite3
-staticfiles/
-media/
-.venv/
-venv/
-.ipynb_checkpoints/
